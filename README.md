@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋 , I'm a Backend Developer from Nepal. 
 
 <!--
 **FillingVoid7/FillingVoid7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ 🛠️ 
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+![Python](https://img.shields.io/badge/Python-3.8-blue)
+#C
+#C++
+#Linux
+
+![Git](https://img.shields.io/badge/Git-2.30-orange)
