@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samuel</h1>
+<h1 align="center">Hi 👋, I'm Bhuwan Sharma.</h1>
 <h3 align="center">A passionate Backend Developer from Nepal.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
