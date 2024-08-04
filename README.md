@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">Full-Stack Developer | Lifelong Learner</h3>
+<h3 align="left">Learning MERN | Lifelong Learner</h3>
 
 ###
 
-<p align="left">👨‍💻 All of my projects are available at my profile .  <br><br>    💬 Ask me about JS and MERN. <br><br>    📫 How to reach me: bhuwanek7@gmail.com<br><br>    ⚡ Fun Fact : You can always be thinner , look better .</p>
+<p align="left">👨‍💻 All of my projects are available at my profile .  <br><br>    💬 Ask me about anything related to techs. <br><br>    📫 How to reach me: bhuwanek7@gmail.com<br><br>    ⚡ Fun Fact : You can always be thinner , look better .</p>
 
 ###
 
