@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👨‍💻 All of my projects are available at my profile .  <br><br>    💬 Ask me about JS and MERN , <br><br>    📫 How to reach me bhuwanek7@gmail.com<br><br>    ⚡ Fun Fact : You can always be thinner , look better .</p>
+<p align="left">👨‍💻 All of my projects are available at my profile .  <br><br>    💬 Ask me about JS and MERN. <br><br>    📫 How to reach me: bhuwanek7@gmail.com<br><br>    ⚡ Fun Fact : You can always be thinner , look better .</p>
 
 ###
 
@@ -61,8 +61,10 @@
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="40" alt="vite logo"  />
 </div>
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=FillingVoid7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=FillingVoid7&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FillingVoid7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![](https://visitcount.itsvg.in/api?id=HemrajRijal&icon=1&color=3)](https://visitcount.itsvg.in)
 ###
