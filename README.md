@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Learning MERN | Lifelong Learner</h3>
+<h3 align="left">Full Stack Development | MERN  </h3>
 
 ###
 
