@@ -5,10 +5,10 @@
 ###
 
 <p align="center">  
-   🌐 Turning ideas into reality with code.  
-   👨‍💻 Check out my work in the repositories below!  
-   📫 Reach me at: bhuwanek7@gmail.com  
-   ⚡ Fun Fact: "Fail Fast, Learn Faster."  
+   🌐 Turning ideas into reality with code.  <br>
+   👨‍💻 Check out my work in the repositories below! <br>  
+   📫 Reach me at: bhuwanek7@gmail.com  <br>
+   ⚡ Fun Fact: "Fail Fast, Learn Faster."  <br>
 </p>
 
 ###
