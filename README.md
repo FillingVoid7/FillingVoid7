@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Bhuwan Sharma</h1>
 
-<h3 align="center">🚀 Full Stack Developer | Crafting Online Solutions | Lifelong Learner 🌟</h3>
+<h3 align="center">🚀 Full Stack Developer | Crafting Online Solutions </h3>
 
 ###
 
