@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left"> 🌐 Turning ideas into reality with code. <br>  👨‍💻 Check out my work in the repositories below! <br>    📫  Reach me at:: bhuwanek7@gmail.com<br>    ⚡  Fun Fact: "Fail Fast, Learn Faster." </p>
+<p align="left"> 🌐 Turning ideas into reality with code. <br>  👨‍💻 Check out my work in the repositories below! <br>    📫  Reach me at: bhuwanek7@gmail.com<br>    ⚡  Fun Fact: "Fail Fast, Learn Faster." </p>
 
 ###
 
