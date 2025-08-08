@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm Bhuwan Sharma</h1>
 
-<h3 align="center">🚀 Full Stack Developer | Crafting Online Solutions </h3>
+<h3 align="center">🚀 Full Stack Developer | Crafting Innovative Solutions </h3>
 
 ###
 
-<p align="left"> 🌐 Turning ideas into reality with code. <br>  👨‍💻 Check out my work in the repositories below! <br>    📫  Reach me at: sharmabhuwan2000@gmail.com<br>    ⚡  Fun Fact: "Fail Fast, Learn Faster." </p>
+<p align="left"> 🌐 Turning  ideas into reality with code. <br>  👨‍💻 Check out my work in the repositories below! <br>    📫  Reach me at: sharmabhuwan2000@gmail.com<br>    ⚡  Mantra to Behold: "Fail Fast, Learn Faster." </p>
 
 ###
 
