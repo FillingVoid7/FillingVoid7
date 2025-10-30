@@ -22,15 +22,15 @@
 ⚫ C++  
 ⚫ JavaScript  
 ⚫ TypeScript 
-⚫ Python 
-⚫ Node.js  
-⚫ Express  
-⚫ React  
-⚫ Next.js  
-⚫ MongoDB  
+⚫ Python
+⚫ Node.js
+⚫ Express
+⚫ React
+⚫ Next.js
+⚫ MongoDB
 ⚫ MySQL
-⚫ PostgreSQL 
-⚫ Git  
+⚫ PostgreSQL
+⚫ Git
 ⚫ Linux
 ⚫ Dockers  
 
