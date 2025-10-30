@@ -21,17 +21,17 @@
 ⚫ C  
 ⚫ C++  
 ⚫ JavaScript  
-⚫ TypeScript 
-⚫ Python
-⚫ Node.js
-⚫ Express
-⚫ React
-⚫ Next.js
-⚫ MongoDB
-⚫ MySQL
-⚫ PostgreSQL
-⚫ Git
-⚫ Linux
+⚫ TypeScript   
+⚫ Python   
+⚫ Node.js   
+⚫ Express   
+⚫ React   
+⚫ Next.js   
+⚫ MongoDB   
+⚫ MySQL   
+⚫ PostgreSQL   
+⚫ Git   
+⚫ Linux   
 ⚫ Dockers  
 
 ---
