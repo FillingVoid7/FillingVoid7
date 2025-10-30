@@ -44,5 +44,5 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=FillingVoid7&color=3" alt="Profile Views"/>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=FillingVoid7)
 </p>
