@@ -42,7 +42,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FillingVoid7&theme=dark&layout=compact&hide_border=true)
 
 ---
-
-<p align="center">
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=FillingVoid7)
-</p>
