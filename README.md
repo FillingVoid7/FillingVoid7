@@ -4,7 +4,6 @@
 ---
 
 🌱 Passionate about transforming ideas into reality. 
-💡 Always learning, always improving.  
 📫 Reach me at **sharmabhuwan2000@gmail.com**  
 
 ---
