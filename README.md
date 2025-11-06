@@ -3,10 +3,9 @@
 
 ---
 
-🌱 Passionate about transforming ideas into reality through clean, efficient code.  
+🌱 Passionate about transforming ideas into reality. 
 💡 Always learning, always improving.  
 📫 Reach me at **sharmabhuwan2000@gmail.com**  
-⚡ Mantra: *"Fail Fast, Learn Faster."*
 
 ---
 
