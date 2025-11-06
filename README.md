@@ -9,12 +9,6 @@
 
 ---
 
-## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/bhu1212/)
-- [X (Twitter)](https://x.com/Bhwn_core7)
-
----
-
 ## 💻 Tech Stack
 
 ⚫ C  
