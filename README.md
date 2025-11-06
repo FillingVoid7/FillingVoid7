@@ -3,7 +3,7 @@
 
 ---
 
-🌱 Passionate about transforming ideas into reality.# 
+🌱 Passionate about transforming ideas into reality.<br> 
 📫 Reach me at **sharmabhuwan2000@gmail.com**  
 
 ---
