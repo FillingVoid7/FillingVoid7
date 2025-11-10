@@ -54,8 +54,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FillingVoid7&theme=tokyonight&layout=compact&hide_border=true"/>
 </a>
 
-</div>
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FillingVoid7&theme=tokyonight)
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FillingVoid7&theme=tokyonight" alt="Profile Summary"/>
+
+<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FillingVoid7&color=blue&style=flat-square)
 
@@ -64,5 +67,5 @@
 ---
 
 <div align="center">
-✨ “One step forward with one commit at a time.” ✨  
+✨ _“One step forward with one commit at a time.”_ ✨  
 </div>
