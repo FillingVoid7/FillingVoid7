@@ -1,5 +1,5 @@
 <div align = 'center' > 
-# 👋 Hi, I'm Bhuwan Sharma  
+# 👋 Hi, I'm Bhuwan Sharma<br> 
 ### 🚀 Full Stack Developer | Building Scalable & Impactful Solutions  
 </div>
 
@@ -13,7 +13,7 @@
 ## 🛠️ Tech Stack
 
 **Languages**  
-![C](https://img.shields.io/badge/Code-C-A8B9CC?logo=c&logoColor=white)
+![C](https://img.shields.io/badge/logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/Code-C++-00599C?logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-3178C6?logo=typescript&logoColor=white)
