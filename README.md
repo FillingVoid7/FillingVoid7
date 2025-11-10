@@ -49,8 +49,12 @@
 
 <div align="center">
 
-![Bhuwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FillingVoid7&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FillingVoid7&theme=tokyonight&layout=compact&hide_border=true)  
+<a href="https://github.com/FillingVoid7">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FillingVoid7&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FillingVoid7&theme=tokyonight&layout=compact&hide_border=true"/>
+</a>
+
+</div>
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FillingVoid7&theme=tokyonight)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FillingVoid7&color=blue&style=flat-square)
@@ -60,5 +64,5 @@
 ---
 
 <div align="center">
-✨ _“Building meaningful solutions one commit at a time.”_ ✨  
+✨ “One step forward with one commit at a time.” ✨  
 </div>
