@@ -67,5 +67,5 @@
 ---
 
 <div align="center">
-✨ _“One step forward with one commit at a time.”_ ✨  
+✨“One step forward with one commit at a time.”✨  
 </div>
